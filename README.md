@@ -12,11 +12,11 @@ You can talk to me about
 ## 🚧Projects
 I am currently working on this, it's a calculator for people who studies Numerical Analysis
 
-[![FINA](https://github-readme-stats.vercel.app/api/pin/?username=grindarius&repo=fina&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![FINA](https://github-readme-stats.vercel.app/api/pin/?username=grindarius&repo=fina&theme=tokyonight)](https://github.com/grindarius/fina)
 
 ## 🌩️Future
 I am looking forward to
 - Low level programming in **Rust**.
 - Cloud computing with **Google Cloud** and **Firebase**.
 
-[![Art's GitHub Stats](https://github-readme-stats.vercel.app/api?username=grindarius&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Art's GitHub Stats](https://github-readme-stats.vercel.app/api?username=grindarius&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/grindarius)
