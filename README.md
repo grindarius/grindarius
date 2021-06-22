@@ -1,6 +1,6 @@
 ## 👋Hello, I'm Bhattarapong Somwong `AKA` Art `AKA` grindarius
 
-I am a Junior student in Computer Science major in Naresuan University in Thailand. My hobby is essentially programming and code. Besides programming I really like to drive motorcycles and cars.
+I am a junior student in Computer Science major in Naresuan University in Thailand. My hobby is essentially programming and code. Besides programming I really like to drive motorcycles and cars.
 
 ## ⚡Technologies
 You can talk to me about
