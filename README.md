@@ -12,7 +12,7 @@ You can talk to me about
 ## 🚧Projects
 I am currently working on this, it's a calculator for people who studies Numerical Analysis
 
-<a href="https://github.com/grindarius">
+<a href="https://github.com/grindarius/fina">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=grindarius&repo=fina&theme=tokyonight" />
 </a>
 
