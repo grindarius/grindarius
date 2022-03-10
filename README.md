@@ -1,6 +1,6 @@
 ## 👋Hello, I'm Bhattarapong Somwong `AKA` Art `AKA` grindarius
 
-I am a junior student in Computer Science major in Naresuan University in Thailand. My hobby is essentially programming and code. Besides programming I really like to drive motorcycles and cars.
+I am a junior student in Computer Science major in Naresuan University in Thailand.
 
 ## ⚡Technologies
 You can talk to me about
@@ -10,10 +10,10 @@ You can talk to me about
 - Line chatbot design and LIFF integration.
 
 ## 🚧Projects
-I am currently working on this, it's a calculator for people who studies Numerical Analysis
+I am currently working on this, it's a website like ticketmelon.
 
-<a href="https://github.com/grindarius/fina">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=grindarius&repo=fina&theme=tokyonight" />
+<a href="https://github.com/grindarius/reeba">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=grindarius&repo=reeba&theme=tokyonight" />
 </a>
 
 ## 🌩️Future
