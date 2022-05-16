@@ -1,6 +1,6 @@
 ## 👋Hello, I'm Bhattarapong Somwong `AKA` Art `AKA` grindarius
 
-I am a junior student in Computer Science major in Naresuan University in Thailand.
+I am a senior student in Computer Science major in Naresuan University in Thailand.
 
 ## ⚡Technologies
 You can talk to me about
