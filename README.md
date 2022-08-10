@@ -6,7 +6,6 @@ I am a senior student in Computer Science major in Naresuan University in Thaila
 You can talk to me about
 - Mobile Development in **Flutter**.
 - Web Development in **Vue**, **TypeScript** (However, I'm not very proficient in CSS).
-- Little bit of algorithm design in **Python**.
 - Line chatbot design and LIFF integration.
 
 ## 🚧Projects
