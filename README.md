@@ -1,12 +1,14 @@
-## 👋Hello, I'm Bhattarapong Somwong `AKA` Art `AKA` grindarius
+## 👋Hello, I'm Bhattarapong Somwong
 
-I am a senior student in Computer Science major in Naresuan University in Thailand.
+You can call me Art
+
+I am a BSc Computer Science undergrad working now.
 
 ## ⚡Technologies
 You can talk to me about
 - Mobile Development in **Flutter**.
-- Web Development in **Vue**, **TypeScript** (However, I'm not very proficient in CSS).
-- Line chatbot design and LIFF integration.
+- Web Development in almost any big framework you can think of. I tried everything.
+- Rust programming for backend development and CLI.
 
 ## 🚧Projects
 I am currently working on this, it's a website like ticketmelon.
@@ -18,4 +20,5 @@ I am currently working on this, it's a website like ticketmelon.
 ## 🌩️Future
 I am looking forward to
 - Low level programming in **Rust**.
-- Cloud computing with **Google Cloud** and **Firebase**.
+- Cloud computing with **Google Cloud**.
+- Open source homelab programs in **Rust**.
