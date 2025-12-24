@@ -2,4 +2,4 @@
 
 You can call me Art
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,rust,css,html,vue,postgresql,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,rust,python,nuxtjs,postgresql,gcp,firebase,terraform)](https://skillicons.dev)
